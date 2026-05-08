@@ -51,7 +51,6 @@ Tenho interesse em desenvolvimento **Front-End e Back-End**, buscando sempre apr
 
 ## Ferramentas 🛠
 
-![Uploading image.png…]()
 
 ---
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brenoalmida2020-prog&theme=tokyonight&hide_border=verdadeiro&locale=pt&short_numbers=falso" alt="GitHub Streak" /></a>
