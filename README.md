@@ -16,18 +16,22 @@
 </div>
 
 ---
-
+<div align = "center">
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software com foco no desenvolvimento de soluções web e no aprimoramento constante das minhas habilidades técnicas.
 
 Tenho interesse em desenvolvimento **Front-End e Back-End**, buscando sempre aprender novas tecnologias, construir projetos práticos e aplicar boas práticas no desenvolvimento de software.
 
+</div>
+
 ---
 
-## 🚀 Linguagens
+
 
 <div align="center">
+  
+## 🚀 Linguagens
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
