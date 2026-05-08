@@ -25,7 +25,7 @@ Tenho interesse em desenvolvimento **Front-End e Back-End**, buscando sempre apr
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Linguagens
 
 <div align="center">
 
@@ -33,11 +33,15 @@ Tenho interesse em desenvolvimento **Front-End e Back-End**, buscando sempre apr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<div align="center">
+
+## Frameworks 🧩
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
 </div>
+
 
 ---
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brenoalmida2020-prog&theme=tokyonight&hide_border=verdadeiro&locale=pt&short_numbers=falso" alt="GitHub Streak" /></a>
