@@ -51,7 +51,7 @@ Tenho interesse em desenvolvimento **Front-End e Back-End**, buscando sempre apr
 
 ## 🛠 Ferramentas
 
-![Git](https://img.shields.io/badge/Git%20Bash-000000?style=for-the-badge&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
