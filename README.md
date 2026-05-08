@@ -17,6 +17,7 @@
 
 ---
 <div align = "center">
+  
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software com foco no desenvolvimento de soluções web e no aprimoramento constante das minhas habilidades técnicas.
